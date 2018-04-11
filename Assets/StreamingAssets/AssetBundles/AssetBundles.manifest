@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 563673155
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: shaders.ab
+      Dependencies: {}
+    Info_1:
+      Name: chatpng.ab
+      Dependencies: {}
+    Info_2:
+      Name: chatapng.ab
+      Dependencies: {}
+    Info_3:
+      Name: materials.ab
+      Dependencies:
+        Dependency_0: shaders.ab
+        Dependency_1: chatpng.ab
+        Dependency_2: chatapng.ab

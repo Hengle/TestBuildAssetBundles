@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 540127228
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a5709e90afbd74fa0dd2cf4e365d223
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6370d3f9de9eca57f523bce048404a46
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Shader/UI.shader
+Dependencies: []

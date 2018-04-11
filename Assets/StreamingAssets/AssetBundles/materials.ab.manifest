@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1236768092
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc9d822e4972e06b295c3ac32bd2c787
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/UI/Chat.mat
+Dependencies:
+- D:/Working/Others/Test/Test/TestBuildAssetBundles/Assets/StreamingAssets/AssetBundles/shaders.ab
+- D:/Working/Others/Test/Test/TestBuildAssetBundles/Assets/StreamingAssets/AssetBundles/chatpng.ab
+- D:/Working/Others/Test/Test/TestBuildAssetBundles/Assets/StreamingAssets/AssetBundles/chatapng.ab
